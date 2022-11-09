@@ -4,4 +4,4 @@ Slides for my talk Building Serverless Applications and APIs with JavaScript and
 
 Services mentioned:
 
- * Azure Functions - [https://learn.microsoft.com/en-us/azure/azure-functions/](Docs)
+ * Azure Functions - [Docs](https://learn.microsoft.com/en-us/azure/azure-functions/)
