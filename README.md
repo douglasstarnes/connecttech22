@@ -9,3 +9,4 @@ Services mentioned:
  * Azore Cosmos DB - [Docs](https://learn.microsoft.com/en-us/azure/cosmos-db/)
  * Azure Cognitive Services - [Docs](https://learn.microsoft.com/en-us/azure/cognitive-services/)
  
+[Azure Free Tier](https://azure.microsoft.com/en-in/pricing/free-services/) so you can try the above services and more!
